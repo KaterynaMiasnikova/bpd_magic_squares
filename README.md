@@ -1,0 +1,1 @@
+Simple encryption/decryption methods. Use of magic squares
