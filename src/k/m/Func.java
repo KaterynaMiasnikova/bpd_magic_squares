@@ -119,4 +119,5 @@ public class Func {
     private static String re_replace(String input) {
         return input.replace("\n", "").replace(" ", "").replace("_", " ");
     }
+
 }
